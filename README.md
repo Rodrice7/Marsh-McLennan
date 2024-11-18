@@ -33,20 +33,6 @@ Project Files
 - analisis_revenue.ipynb
   Examines time series trends in revenue.
 
-How to Use
-----------
-1. Clone the repository:
-   git clone https://github.com/your_username/repository_name.git
-
-2. Install necessary dependencies. Make sure you have Python 3.7 or higher and Jupyter Notebook installed.
-
-3. Open the notebooks in Jupyter to explore the analyses.
-
-Requirements
-------------
-- Python 3.7 or higher.
-- Libraries: pandas, numpy, matplotlib, seaborn, statsmodels.
-
 Notes
 -----
 - The dataset is not included in this repository due to confidentiality. Access to the original data is required to replicate the analysis.
